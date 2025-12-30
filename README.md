@@ -1,2 +1,5 @@
-# random-fact-2025-12-30T06-22-14.996Z-960random-fact-2025-12-30T06-22-14.996Z-960
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+The word "toy" comes from an old English word that means "tool."
+
+*Generated on 2025-12-30T06:22:16.495Z*
